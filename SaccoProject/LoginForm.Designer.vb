@@ -34,12 +34,12 @@ Partial Class LoginForm
         Dim StateProperties6 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties7 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties8 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim BorderEdges3 As Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges = New Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges()
-        Dim BorderEdges4 As Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges = New Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges()
         Dim StateProperties9 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties10 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties11 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties12 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim BorderEdges3 As Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges = New Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges()
+        Dim BorderEdges4 As Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges = New Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges()
         Dim StateProperties13 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties14 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties15 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
@@ -48,7 +48,10 @@ Partial Class LoginForm
         Dim StateProperties18 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties19 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties20 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim BorderEdges5 As Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges = New Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges()
+        Dim StateProperties21 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties22 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties23 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties24 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties25 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties26 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties27 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
@@ -57,6 +60,7 @@ Partial Class LoginForm
         Dim StateProperties30 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties31 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties32 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim BorderEdges5 As Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges = New Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges()
         Dim StateProperties33 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties34 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties35 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
@@ -65,12 +69,16 @@ Partial Class LoginForm
         Dim StateProperties38 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties39 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim StateProperties40 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties41 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties42 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties43 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties44 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties45 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties46 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties47 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
+        Dim StateProperties48 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Dim BorderEdges6 As Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges = New Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges()
         Dim BorderEdges7 As Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges = New Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges()
-        Dim StateProperties21 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties22 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties23 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
-        Dim StateProperties24 As Bunifu.UI.WinForms.BunifuTextBox.StateProperties = New Bunifu.UI.WinForms.BunifuTextBox.StateProperties()
         Me.BunifuFormDock1 = New Bunifu.UI.WinForms.BunifuFormDock()
         Me.BunifuPage = New Bunifu.UI.WinForms.BunifuPages()
         Me.LoginPage = New System.Windows.Forms.TabPage()
@@ -80,10 +88,14 @@ Partial Class LoginForm
         Me.BunifuSeparator3 = New Bunifu.UI.WinForms.BunifuSeparator()
         Me.btnSignIn = New Bunifu.UI.WinForms.BunifuButton.BunifuButton()
         Me.BunifuSeparator1 = New Bunifu.UI.WinForms.BunifuSeparator()
-        Me.BunifuTextBox2 = New Bunifu.UI.WinForms.BunifuTextBox()
-        Me.BunifuTextBox1 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.txtPassword = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.txtUsername = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.Login = New System.Windows.Forms.Label()
         Me.SignUpPage = New System.Windows.Forms.TabPage()
+        Me.BunifuLabel4 = New Bunifu.UI.WinForms.BunifuLabel()
+        Me.txtResponse = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.cboQuestion = New Bunifu.UI.WinForms.BunifuDropdown()
+        Me.BunifuLabel3 = New Bunifu.UI.WinForms.BunifuLabel()
         Me.BunifuSeparator5 = New Bunifu.UI.WinForms.BunifuSeparator()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
@@ -91,11 +103,14 @@ Partial Class LoginForm
         Me.BunifuSeparator6 = New Bunifu.UI.WinForms.BunifuSeparator()
         Me.BunifuButton2 = New Bunifu.UI.WinForms.BunifuButton.BunifuButton()
         Me.btnJoin = New Bunifu.UI.WinForms.BunifuButton.BunifuButton()
-        Me.BunifuTextBox5 = New Bunifu.UI.WinForms.BunifuTextBox()
-        Me.BunifuTextBox3 = New Bunifu.UI.WinForms.BunifuTextBox()
-        Me.BunifuTextBox4 = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.txtPasswordConfirm = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.txtJoinPass = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.txtEmail = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.BunifuSeparator2 = New Bunifu.UI.WinForms.BunifuSeparator()
         Me.SignUpPage2 = New System.Windows.Forms.TabPage()
+        Me.txtMpesa = New Bunifu.UI.WinForms.BunifuTextBox()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.txtID = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.btnCreateAccount = New Bunifu.UI.WinForms.BunifuButton.BunifuButton()
         Me.BunifuLabel1 = New Bunifu.UI.WinForms.BunifuLabel()
         Me.btnMpesa = New FontAwesome.Sharp.IconPictureBox()
@@ -104,7 +119,7 @@ Partial Class LoginForm
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.txtPhone = New Bunifu.UI.WinForms.BunifuTextBox()
-        Me.txtDOB = New Bunifu.UI.WinForms.BunifuDatePicker()
+        Me.dtpDOB = New Bunifu.UI.WinForms.BunifuDatePicker()
         Me.Label = New System.Windows.Forms.Label()
         Me.txtSurname = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.txtMiddleName = New Bunifu.UI.WinForms.BunifuTextBox()
@@ -119,8 +134,6 @@ Partial Class LoginForm
         Me.Label1 = New System.Windows.Forms.Label()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.BunifuLabel2 = New Bunifu.UI.WinForms.BunifuLabel()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.txtID = New Bunifu.UI.WinForms.BunifuTextBox()
         Me.BunifuPage.SuspendLayout()
         Me.LoginPage.SuspendLayout()
         Me.SignUpPage.SuspendLayout()
@@ -181,10 +194,10 @@ Partial Class LoginForm
         Me.BunifuPage.Location = New System.Drawing.Point(305, 0)
         Me.BunifuPage.Multiline = True
         Me.BunifuPage.Name = "BunifuPage"
-        Me.BunifuPage.Page = Me.SignUpPage2
-        Me.BunifuPage.PageIndex = 2
-        Me.BunifuPage.PageName = "SignUpPage2"
-        Me.BunifuPage.PageTitle = "SignUpPage2"
+        Me.BunifuPage.Page = Me.SignUpPage
+        Me.BunifuPage.PageIndex = 1
+        Me.BunifuPage.PageName = "SignUpPage"
+        Me.BunifuPage.PageTitle = "Sign Up"
         Me.BunifuPage.SelectedIndex = 0
         Me.BunifuPage.Size = New System.Drawing.Size(630, 506)
         Me.BunifuPage.TabIndex = 7
@@ -208,22 +221,22 @@ Partial Class LoginForm
         '
         'LoginPage
         '
+        Me.LoginPage.BackColor = System.Drawing.SystemColors.Control
         Me.LoginPage.Controls.Add(Me.btnGoogle)
         Me.LoginPage.Controls.Add(Me.BunifuSeparator4)
         Me.LoginPage.Controls.Add(Me.Label3)
         Me.LoginPage.Controls.Add(Me.BunifuSeparator3)
         Me.LoginPage.Controls.Add(Me.btnSignIn)
         Me.LoginPage.Controls.Add(Me.BunifuSeparator1)
-        Me.LoginPage.Controls.Add(Me.BunifuTextBox2)
-        Me.LoginPage.Controls.Add(Me.BunifuTextBox1)
+        Me.LoginPage.Controls.Add(Me.txtPassword)
+        Me.LoginPage.Controls.Add(Me.txtUsername)
         Me.LoginPage.Controls.Add(Me.Login)
         Me.LoginPage.Location = New System.Drawing.Point(4, 4)
         Me.LoginPage.Name = "LoginPage"
         Me.LoginPage.Padding = New System.Windows.Forms.Padding(3)
-        Me.LoginPage.Size = New System.Drawing.Size(583, 448)
+        Me.LoginPage.Size = New System.Drawing.Size(622, 480)
         Me.LoginPage.TabIndex = 0
         Me.LoginPage.Text = "Login"
-        Me.LoginPage.UseVisualStyleBackColor = True
         '
         'btnGoogle
         '
@@ -459,153 +472,153 @@ Partial Class LoginForm
         Me.BunifuSeparator1.Size = New System.Drawing.Size(273, 15)
         Me.BunifuSeparator1.TabIndex = 10
         '
-        'BunifuTextBox2
+        'txtPassword
         '
-        Me.BunifuTextBox2.AcceptsReturn = False
-        Me.BunifuTextBox2.AcceptsTab = False
-        Me.BunifuTextBox2.AnimationSpeed = 200
-        Me.BunifuTextBox2.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
-        Me.BunifuTextBox2.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
-        Me.BunifuTextBox2.BackColor = System.Drawing.Color.Transparent
-        Me.BunifuTextBox2.BackgroundImage = CType(resources.GetObject("BunifuTextBox2.BackgroundImage"), System.Drawing.Image)
-        Me.BunifuTextBox2.BorderColorActive = System.Drawing.Color.DodgerBlue
-        Me.BunifuTextBox2.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        Me.BunifuTextBox2.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.BunifuTextBox2.BorderColorIdle = System.Drawing.Color.Silver
-        Me.BunifuTextBox2.BorderRadius = 20
-        Me.BunifuTextBox2.BorderThickness = 1
-        Me.BunifuTextBox2.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
-        Me.BunifuTextBox2.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox2.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
-        Me.BunifuTextBox2.DefaultText = ""
-        Me.BunifuTextBox2.FillColor = System.Drawing.Color.White
-        Me.BunifuTextBox2.HideSelection = True
-        Me.BunifuTextBox2.IconLeft = Global.SaccoProject.My.Resources.Resources.door_key
-        Me.BunifuTextBox2.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox2.IconPadding = 10
-        Me.BunifuTextBox2.IconRight = Nothing
-        Me.BunifuTextBox2.IconRightCursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox2.Lines = New String(-1) {}
-        Me.BunifuTextBox2.Location = New System.Drawing.Point(116, 159)
-        Me.BunifuTextBox2.MaxLength = 32767
-        Me.BunifuTextBox2.MinimumSize = New System.Drawing.Size(1, 1)
-        Me.BunifuTextBox2.Modified = False
-        Me.BunifuTextBox2.Multiline = False
-        Me.BunifuTextBox2.Name = "BunifuTextBox2"
+        Me.txtPassword.AcceptsReturn = False
+        Me.txtPassword.AcceptsTab = False
+        Me.txtPassword.AnimationSpeed = 200
+        Me.txtPassword.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.txtPassword.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.txtPassword.BackColor = System.Drawing.Color.Transparent
+        Me.txtPassword.BackgroundImage = CType(resources.GetObject("txtPassword.BackgroundImage"), System.Drawing.Image)
+        Me.txtPassword.BorderColorActive = System.Drawing.Color.DodgerBlue
+        Me.txtPassword.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.txtPassword.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.txtPassword.BorderColorIdle = System.Drawing.Color.Silver
+        Me.txtPassword.BorderRadius = 20
+        Me.txtPassword.BorderThickness = 1
+        Me.txtPassword.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.txtPassword.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtPassword.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.txtPassword.DefaultText = ""
+        Me.txtPassword.FillColor = System.Drawing.Color.White
+        Me.txtPassword.HideSelection = True
+        Me.txtPassword.IconLeft = Global.SaccoProject.My.Resources.Resources.door_key
+        Me.txtPassword.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtPassword.IconPadding = 10
+        Me.txtPassword.IconRight = Nothing
+        Me.txtPassword.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtPassword.Lines = New String(-1) {}
+        Me.txtPassword.Location = New System.Drawing.Point(116, 159)
+        Me.txtPassword.MaxLength = 32767
+        Me.txtPassword.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.txtPassword.Modified = False
+        Me.txtPassword.Multiline = False
+        Me.txtPassword.Name = "txtPassword"
         StateProperties1.BorderColor = System.Drawing.Color.DodgerBlue
         StateProperties1.FillColor = System.Drawing.Color.Empty
         StateProperties1.ForeColor = System.Drawing.Color.Empty
         StateProperties1.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox2.OnActiveState = StateProperties1
+        Me.txtPassword.OnActiveState = StateProperties1
         StateProperties2.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
         StateProperties2.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
         StateProperties2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
         StateProperties2.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.BunifuTextBox2.OnDisabledState = StateProperties2
+        Me.txtPassword.OnDisabledState = StateProperties2
         StateProperties3.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
         StateProperties3.FillColor = System.Drawing.Color.Empty
         StateProperties3.ForeColor = System.Drawing.Color.Empty
         StateProperties3.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox2.OnHoverState = StateProperties3
+        Me.txtPassword.OnHoverState = StateProperties3
         StateProperties4.BorderColor = System.Drawing.Color.Silver
         StateProperties4.FillColor = System.Drawing.Color.White
         StateProperties4.ForeColor = System.Drawing.Color.Empty
         StateProperties4.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox2.OnIdleState = StateProperties4
-        Me.BunifuTextBox2.Padding = New System.Windows.Forms.Padding(3)
-        Me.BunifuTextBox2.PasswordChar = Global.Microsoft.VisualBasic.ChrW(9679)
-        Me.BunifuTextBox2.PlaceholderForeColor = System.Drawing.Color.Silver
-        Me.BunifuTextBox2.PlaceholderText = "Enter password" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
-        Me.BunifuTextBox2.ReadOnly = False
-        Me.BunifuTextBox2.ScrollBars = System.Windows.Forms.ScrollBars.None
-        Me.BunifuTextBox2.SelectedText = ""
-        Me.BunifuTextBox2.SelectionLength = 0
-        Me.BunifuTextBox2.SelectionStart = 0
-        Me.BunifuTextBox2.ShortcutsEnabled = True
-        Me.BunifuTextBox2.Size = New System.Drawing.Size(298, 37)
-        Me.BunifuTextBox2.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
-        Me.BunifuTextBox2.TabIndex = 9
-        Me.BunifuTextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
-        Me.BunifuTextBox2.TextMarginBottom = 0
-        Me.BunifuTextBox2.TextMarginLeft = 10
-        Me.BunifuTextBox2.TextMarginTop = 0
-        Me.BunifuTextBox2.TextPlaceholder = "Enter password" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
-        Me.BunifuTextBox2.UseSystemPasswordChar = False
-        Me.BunifuTextBox2.WordWrap = True
+        Me.txtPassword.OnIdleState = StateProperties4
+        Me.txtPassword.Padding = New System.Windows.Forms.Padding(3)
+        Me.txtPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(9679)
+        Me.txtPassword.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.txtPassword.PlaceholderText = "Enter password" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        Me.txtPassword.ReadOnly = False
+        Me.txtPassword.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.txtPassword.SelectedText = ""
+        Me.txtPassword.SelectionLength = 0
+        Me.txtPassword.SelectionStart = 0
+        Me.txtPassword.ShortcutsEnabled = True
+        Me.txtPassword.Size = New System.Drawing.Size(298, 37)
+        Me.txtPassword.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
+        Me.txtPassword.TabIndex = 9
+        Me.txtPassword.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.txtPassword.TextMarginBottom = 0
+        Me.txtPassword.TextMarginLeft = 10
+        Me.txtPassword.TextMarginTop = 0
+        Me.txtPassword.TextPlaceholder = "Enter password" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        Me.txtPassword.UseSystemPasswordChar = False
+        Me.txtPassword.WordWrap = True
         '
-        'BunifuTextBox1
+        'txtUsername
         '
-        Me.BunifuTextBox1.AcceptsReturn = False
-        Me.BunifuTextBox1.AcceptsTab = False
-        Me.BunifuTextBox1.AnimationSpeed = 200
-        Me.BunifuTextBox1.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
-        Me.BunifuTextBox1.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
-        Me.BunifuTextBox1.BackColor = System.Drawing.Color.Transparent
-        Me.BunifuTextBox1.BackgroundImage = CType(resources.GetObject("BunifuTextBox1.BackgroundImage"), System.Drawing.Image)
-        Me.BunifuTextBox1.BorderColorActive = System.Drawing.Color.DodgerBlue
-        Me.BunifuTextBox1.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        Me.BunifuTextBox1.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.BunifuTextBox1.BorderColorIdle = System.Drawing.Color.Silver
-        Me.BunifuTextBox1.BorderRadius = 20
-        Me.BunifuTextBox1.BorderThickness = 1
-        Me.BunifuTextBox1.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
-        Me.BunifuTextBox1.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox1.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
-        Me.BunifuTextBox1.DefaultText = ""
-        Me.BunifuTextBox1.FillColor = System.Drawing.Color.White
-        Me.BunifuTextBox1.HideSelection = True
-        Me.BunifuTextBox1.IconLeft = Global.SaccoProject.My.Resources.Resources.user1
-        Me.BunifuTextBox1.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox1.IconPadding = 10
-        Me.BunifuTextBox1.IconRight = Nothing
-        Me.BunifuTextBox1.IconRightCursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox1.Lines = New String(-1) {}
-        Me.BunifuTextBox1.Location = New System.Drawing.Point(116, 100)
-        Me.BunifuTextBox1.MaxLength = 32767
-        Me.BunifuTextBox1.MinimumSize = New System.Drawing.Size(1, 1)
-        Me.BunifuTextBox1.Modified = False
-        Me.BunifuTextBox1.Multiline = False
-        Me.BunifuTextBox1.Name = "BunifuTextBox1"
+        Me.txtUsername.AcceptsReturn = False
+        Me.txtUsername.AcceptsTab = False
+        Me.txtUsername.AnimationSpeed = 200
+        Me.txtUsername.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.txtUsername.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.txtUsername.BackColor = System.Drawing.Color.Transparent
+        Me.txtUsername.BackgroundImage = CType(resources.GetObject("txtUsername.BackgroundImage"), System.Drawing.Image)
+        Me.txtUsername.BorderColorActive = System.Drawing.Color.DodgerBlue
+        Me.txtUsername.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.txtUsername.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.txtUsername.BorderColorIdle = System.Drawing.Color.Silver
+        Me.txtUsername.BorderRadius = 20
+        Me.txtUsername.BorderThickness = 1
+        Me.txtUsername.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.txtUsername.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtUsername.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.txtUsername.DefaultText = ""
+        Me.txtUsername.FillColor = System.Drawing.Color.White
+        Me.txtUsername.HideSelection = True
+        Me.txtUsername.IconLeft = Global.SaccoProject.My.Resources.Resources.user1
+        Me.txtUsername.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtUsername.IconPadding = 10
+        Me.txtUsername.IconRight = Nothing
+        Me.txtUsername.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtUsername.Lines = New String(-1) {}
+        Me.txtUsername.Location = New System.Drawing.Point(116, 100)
+        Me.txtUsername.MaxLength = 32767
+        Me.txtUsername.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.txtUsername.Modified = False
+        Me.txtUsername.Multiline = False
+        Me.txtUsername.Name = "txtUsername"
         StateProperties5.BorderColor = System.Drawing.Color.DodgerBlue
         StateProperties5.FillColor = System.Drawing.Color.Empty
         StateProperties5.ForeColor = System.Drawing.Color.Empty
         StateProperties5.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox1.OnActiveState = StateProperties5
+        Me.txtUsername.OnActiveState = StateProperties5
         StateProperties6.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
         StateProperties6.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
         StateProperties6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
         StateProperties6.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.BunifuTextBox1.OnDisabledState = StateProperties6
+        Me.txtUsername.OnDisabledState = StateProperties6
         StateProperties7.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
         StateProperties7.FillColor = System.Drawing.Color.Empty
         StateProperties7.ForeColor = System.Drawing.Color.Empty
         StateProperties7.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox1.OnHoverState = StateProperties7
+        Me.txtUsername.OnHoverState = StateProperties7
         StateProperties8.BorderColor = System.Drawing.Color.Silver
         StateProperties8.FillColor = System.Drawing.Color.White
         StateProperties8.ForeColor = System.Drawing.Color.Empty
         StateProperties8.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox1.OnIdleState = StateProperties8
-        Me.BunifuTextBox1.Padding = New System.Windows.Forms.Padding(3)
-        Me.BunifuTextBox1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.BunifuTextBox1.PlaceholderForeColor = System.Drawing.Color.Silver
-        Me.BunifuTextBox1.PlaceholderText = "Email/Phone Number"
-        Me.BunifuTextBox1.ReadOnly = False
-        Me.BunifuTextBox1.ScrollBars = System.Windows.Forms.ScrollBars.None
-        Me.BunifuTextBox1.SelectedText = ""
-        Me.BunifuTextBox1.SelectionLength = 0
-        Me.BunifuTextBox1.SelectionStart = 0
-        Me.BunifuTextBox1.ShortcutsEnabled = True
-        Me.BunifuTextBox1.Size = New System.Drawing.Size(298, 37)
-        Me.BunifuTextBox1.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
-        Me.BunifuTextBox1.TabIndex = 8
-        Me.BunifuTextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
-        Me.BunifuTextBox1.TextMarginBottom = 0
-        Me.BunifuTextBox1.TextMarginLeft = 10
-        Me.BunifuTextBox1.TextMarginTop = 0
-        Me.BunifuTextBox1.TextPlaceholder = "Email/Phone Number"
-        Me.BunifuTextBox1.UseSystemPasswordChar = False
-        Me.BunifuTextBox1.WordWrap = True
+        Me.txtUsername.OnIdleState = StateProperties8
+        Me.txtUsername.Padding = New System.Windows.Forms.Padding(3)
+        Me.txtUsername.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.txtUsername.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.txtUsername.PlaceholderText = "Email/Phone Number"
+        Me.txtUsername.ReadOnly = False
+        Me.txtUsername.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.txtUsername.SelectedText = ""
+        Me.txtUsername.SelectionLength = 0
+        Me.txtUsername.SelectionStart = 0
+        Me.txtUsername.ShortcutsEnabled = True
+        Me.txtUsername.Size = New System.Drawing.Size(298, 37)
+        Me.txtUsername.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
+        Me.txtUsername.TabIndex = 8
+        Me.txtUsername.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.txtUsername.TextMarginBottom = 0
+        Me.txtUsername.TextMarginLeft = 10
+        Me.txtUsername.TextMarginTop = 0
+        Me.txtUsername.TextPlaceholder = "Email/Phone Number"
+        Me.txtUsername.UseSystemPasswordChar = False
+        Me.txtUsername.WordWrap = True
         '
         'Login
         '
@@ -620,6 +633,11 @@ Partial Class LoginForm
         '
         'SignUpPage
         '
+        Me.SignUpPage.BackColor = System.Drawing.SystemColors.Control
+        Me.SignUpPage.Controls.Add(Me.BunifuLabel4)
+        Me.SignUpPage.Controls.Add(Me.txtResponse)
+        Me.SignUpPage.Controls.Add(Me.cboQuestion)
+        Me.SignUpPage.Controls.Add(Me.BunifuLabel3)
         Me.SignUpPage.Controls.Add(Me.BunifuSeparator5)
         Me.SignUpPage.Controls.Add(Me.Label5)
         Me.SignUpPage.Controls.Add(Me.Label4)
@@ -627,9 +645,9 @@ Partial Class LoginForm
         Me.SignUpPage.Controls.Add(Me.BunifuSeparator6)
         Me.SignUpPage.Controls.Add(Me.BunifuButton2)
         Me.SignUpPage.Controls.Add(Me.btnJoin)
-        Me.SignUpPage.Controls.Add(Me.BunifuTextBox5)
-        Me.SignUpPage.Controls.Add(Me.BunifuTextBox3)
-        Me.SignUpPage.Controls.Add(Me.BunifuTextBox4)
+        Me.SignUpPage.Controls.Add(Me.txtPasswordConfirm)
+        Me.SignUpPage.Controls.Add(Me.txtJoinPass)
+        Me.SignUpPage.Controls.Add(Me.txtEmail)
         Me.SignUpPage.Controls.Add(Me.BunifuSeparator2)
         Me.SignUpPage.Location = New System.Drawing.Point(4, 4)
         Me.SignUpPage.Name = "SignUpPage"
@@ -637,7 +655,157 @@ Partial Class LoginForm
         Me.SignUpPage.Size = New System.Drawing.Size(622, 480)
         Me.SignUpPage.TabIndex = 1
         Me.SignUpPage.Text = "Sign Up"
-        Me.SignUpPage.UseVisualStyleBackColor = True
+        '
+        'BunifuLabel4
+        '
+        Me.BunifuLabel4.AllowParentOverrides = False
+        Me.BunifuLabel4.AutoEllipsis = False
+        Me.BunifuLabel4.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel4.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel4.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel4.ForeColor = System.Drawing.SystemColors.ControlDarkDark
+        Me.BunifuLabel4.Location = New System.Drawing.Point(102, 395)
+        Me.BunifuLabel4.Name = "BunifuLabel4"
+        Me.BunifuLabel4.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel4.Size = New System.Drawing.Size(53, 15)
+        Me.BunifuLabel4.TabIndex = 32
+        Me.BunifuLabel4.Text = "Response: "
+        Me.BunifuLabel4.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel4.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
+        '
+        'txtResponse
+        '
+        Me.txtResponse.AcceptsReturn = False
+        Me.txtResponse.AcceptsTab = False
+        Me.txtResponse.AnimationSpeed = 200
+        Me.txtResponse.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.txtResponse.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.txtResponse.BackColor = System.Drawing.SystemColors.Control
+        Me.txtResponse.BackgroundImage = CType(resources.GetObject("txtResponse.BackgroundImage"), System.Drawing.Image)
+        Me.txtResponse.BorderColorActive = System.Drawing.Color.DodgerBlue
+        Me.txtResponse.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.txtResponse.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.txtResponse.BorderColorIdle = System.Drawing.Color.Silver
+        Me.txtResponse.BorderRadius = 1
+        Me.txtResponse.BorderThickness = 1
+        Me.txtResponse.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.txtResponse.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtResponse.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.txtResponse.DefaultText = ""
+        Me.txtResponse.FillColor = System.Drawing.SystemColors.Control
+        Me.txtResponse.HideSelection = True
+        Me.txtResponse.IconLeft = Nothing
+        Me.txtResponse.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtResponse.IconPadding = 10
+        Me.txtResponse.IconRight = Nothing
+        Me.txtResponse.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtResponse.Lines = New String(-1) {}
+        Me.txtResponse.Location = New System.Drawing.Point(162, 386)
+        Me.txtResponse.MaxLength = 32767
+        Me.txtResponse.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.txtResponse.Modified = False
+        Me.txtResponse.Multiline = False
+        Me.txtResponse.Name = "txtResponse"
+        StateProperties9.BorderColor = System.Drawing.Color.DodgerBlue
+        StateProperties9.FillColor = System.Drawing.Color.Empty
+        StateProperties9.ForeColor = System.Drawing.Color.Empty
+        StateProperties9.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtResponse.OnActiveState = StateProperties9
+        StateProperties10.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties10.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties10.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties10.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.txtResponse.OnDisabledState = StateProperties10
+        StateProperties11.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties11.FillColor = System.Drawing.Color.Empty
+        StateProperties11.ForeColor = System.Drawing.Color.Empty
+        StateProperties11.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtResponse.OnHoverState = StateProperties11
+        StateProperties12.BorderColor = System.Drawing.Color.Silver
+        StateProperties12.FillColor = System.Drawing.SystemColors.Control
+        StateProperties12.ForeColor = System.Drawing.Color.Empty
+        StateProperties12.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtResponse.OnIdleState = StateProperties12
+        Me.txtResponse.Padding = New System.Windows.Forms.Padding(3)
+        Me.txtResponse.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.txtResponse.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.txtResponse.PlaceholderText = ""
+        Me.txtResponse.ReadOnly = False
+        Me.txtResponse.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.txtResponse.SelectedText = ""
+        Me.txtResponse.SelectionLength = 0
+        Me.txtResponse.SelectionStart = 0
+        Me.txtResponse.ShortcutsEnabled = True
+        Me.txtResponse.Size = New System.Drawing.Size(292, 37)
+        Me.txtResponse.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Material
+        Me.txtResponse.TabIndex = 14
+        Me.txtResponse.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.txtResponse.TextMarginBottom = 0
+        Me.txtResponse.TextMarginLeft = 3
+        Me.txtResponse.TextMarginTop = 0
+        Me.txtResponse.TextPlaceholder = ""
+        Me.txtResponse.UseSystemPasswordChar = False
+        Me.txtResponse.WordWrap = True
+        '
+        'cboQuestion
+        '
+        Me.cboQuestion.BackColor = System.Drawing.Color.Transparent
+        Me.cboQuestion.BackgroundColor = System.Drawing.Color.White
+        Me.cboQuestion.BorderColor = System.Drawing.Color.Silver
+        Me.cboQuestion.BorderRadius = 10
+        Me.cboQuestion.Color = System.Drawing.Color.Silver
+        Me.cboQuestion.Direction = Bunifu.UI.WinForms.BunifuDropdown.Directions.Down
+        Me.cboQuestion.DisabledBackColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        Me.cboQuestion.DisabledBorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.cboQuestion.DisabledColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        Me.cboQuestion.DisabledForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        Me.cboQuestion.DisabledIndicatorColor = System.Drawing.Color.DarkGray
+        Me.cboQuestion.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed
+        Me.cboQuestion.DropdownBorderThickness = Bunifu.UI.WinForms.BunifuDropdown.BorderThickness.Thin
+        Me.cboQuestion.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cboQuestion.DropDownTextAlign = Bunifu.UI.WinForms.BunifuDropdown.TextAlign.Left
+        Me.cboQuestion.FillDropDown = True
+        Me.cboQuestion.FillIndicator = False
+        Me.cboQuestion.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.cboQuestion.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.cboQuestion.ForeColor = System.Drawing.Color.Black
+        Me.cboQuestion.FormattingEnabled = True
+        Me.cboQuestion.Icon = Nothing
+        Me.cboQuestion.IndicatorAlignment = Bunifu.UI.WinForms.BunifuDropdown.Indicator.Right
+        Me.cboQuestion.IndicatorColor = System.Drawing.Color.Gray
+        Me.cboQuestion.IndicatorLocation = Bunifu.UI.WinForms.BunifuDropdown.Indicator.Right
+        Me.cboQuestion.ItemBackColor = System.Drawing.Color.White
+        Me.cboQuestion.ItemBorderColor = System.Drawing.Color.White
+        Me.cboQuestion.ItemForeColor = System.Drawing.Color.Black
+        Me.cboQuestion.ItemHeight = 26
+        Me.cboQuestion.ItemHighLightColor = System.Drawing.Color.DodgerBlue
+        Me.cboQuestion.ItemHighLightForeColor = System.Drawing.Color.White
+        Me.cboQuestion.Items.AddRange(New Object() {"What is the name of your favorite pet?", "What is your mothers maiden name?", "What high school did you attend?"})
+        Me.cboQuestion.ItemTopMargin = 3
+        Me.cboQuestion.Location = New System.Drawing.Point(162, 348)
+        Me.cboQuestion.Name = "cboQuestion"
+        Me.cboQuestion.Size = New System.Drawing.Size(292, 32)
+        Me.cboQuestion.TabIndex = 13
+        Me.cboQuestion.Text = Nothing
+        Me.cboQuestion.TextAlignment = Bunifu.UI.WinForms.BunifuDropdown.TextAlign.Left
+        Me.cboQuestion.TextLeftMargin = 5
+        '
+        'BunifuLabel3
+        '
+        Me.BunifuLabel3.AllowParentOverrides = False
+        Me.BunifuLabel3.AutoEllipsis = False
+        Me.BunifuLabel3.Cursor = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel3.CursorType = System.Windows.Forms.Cursors.Default
+        Me.BunifuLabel3.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.BunifuLabel3.ForeColor = System.Drawing.SystemColors.ControlDarkDark
+        Me.BunifuLabel3.Location = New System.Drawing.Point(60, 354)
+        Me.BunifuLabel3.Name = "BunifuLabel3"
+        Me.BunifuLabel3.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.BunifuLabel3.Size = New System.Drawing.Size(96, 15)
+        Me.BunifuLabel3.TabIndex = 22
+        Me.BunifuLabel3.Text = "Security Question:"
+        Me.BunifuLabel3.TextAlignment = System.Drawing.ContentAlignment.TopLeft
+        Me.BunifuLabel3.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
         '
         'BunifuSeparator5
         '
@@ -648,7 +816,7 @@ Partial Class LoginForm
         Me.BunifuSeparator5.LineColor = System.Drawing.Color.Silver
         Me.BunifuSeparator5.LineStyle = Bunifu.UI.WinForms.BunifuSeparator.LineStyles.Solid
         Me.BunifuSeparator5.LineThickness = 1
-        Me.BunifuSeparator5.Location = New System.Drawing.Point(244, 159)
+        Me.BunifuSeparator5.Location = New System.Drawing.Point(244, 150)
         Me.BunifuSeparator5.Name = "BunifuSeparator5"
         Me.BunifuSeparator5.Orientation = Bunifu.UI.WinForms.BunifuSeparator.LineOrientation.Horizontal
         Me.BunifuSeparator5.Size = New System.Drawing.Size(152, 17)
@@ -659,7 +827,7 @@ Partial Class LoginForm
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.ForeColor = System.Drawing.SystemColors.ControlDarkDark
-        Me.Label5.Location = New System.Drawing.Point(210, 155)
+        Me.Label5.Location = New System.Drawing.Point(210, 146)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(28, 21)
         Me.Label5.TabIndex = 19
@@ -670,7 +838,7 @@ Partial Class LoginForm
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Segoe UI Semibold", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.SystemColors.ControlDarkDark
-        Me.Label4.Location = New System.Drawing.Point(57, 30)
+        Me.Label4.Location = New System.Drawing.Point(57, 21)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(63, 15)
         Me.Label4.TabIndex = 14
@@ -681,7 +849,7 @@ Partial Class LoginForm
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Segoe UI Semibold", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(92, Byte), Integer))
-        Me.Label2.Location = New System.Drawing.Point(50, 46)
+        Me.Label2.Location = New System.Drawing.Point(50, 37)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(105, 37)
         Me.Label2.TabIndex = 8
@@ -696,7 +864,7 @@ Partial Class LoginForm
         Me.BunifuSeparator6.LineColor = System.Drawing.Color.Silver
         Me.BunifuSeparator6.LineStyle = Bunifu.UI.WinForms.BunifuSeparator.LineStyles.Solid
         Me.BunifuSeparator6.LineThickness = 1
-        Me.BunifuSeparator6.Location = New System.Drawing.Point(60, 159)
+        Me.BunifuSeparator6.Location = New System.Drawing.Point(60, 150)
         Me.BunifuSeparator6.Name = "BunifuSeparator6"
         Me.BunifuSeparator6.Orientation = Bunifu.UI.WinForms.BunifuSeparator.LineOrientation.Horizontal
         Me.BunifuSeparator6.Size = New System.Drawing.Size(144, 17)
@@ -749,7 +917,7 @@ Partial Class LoginForm
         Me.BunifuButton2.IdleIconLeftImage = Global.SaccoProject.My.Resources.Resources.google
         Me.BunifuButton2.IdleIconRightImage = Nothing
         Me.BunifuButton2.IndicateFocus = False
-        Me.BunifuButton2.Location = New System.Drawing.Point(57, 106)
+        Me.BunifuButton2.Location = New System.Drawing.Point(57, 97)
         Me.BunifuButton2.Name = "BunifuButton2"
         Me.BunifuButton2.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(191, Byte), Integer), CType(CType(191, Byte), Integer), CType(CType(191, Byte), Integer))
         Me.BunifuButton2.OnDisabledState.BorderRadius = 30
@@ -838,7 +1006,7 @@ Partial Class LoginForm
         Me.btnJoin.IdleIconLeftImage = Nothing
         Me.btnJoin.IdleIconRightImage = Nothing
         Me.btnJoin.IndicateFocus = False
-        Me.btnJoin.Location = New System.Drawing.Point(354, 444)
+        Me.btnJoin.Location = New System.Drawing.Point(365, 441)
         Me.btnJoin.Name = "btnJoin"
         Me.btnJoin.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(CType(CType(191, Byte), Integer), CType(CType(191, Byte), Integer), CType(CType(191, Byte), Integer))
         Me.btnJoin.OnDisabledState.BorderRadius = 30
@@ -873,234 +1041,234 @@ Partial Class LoginForm
         Me.btnJoin.OnPressedState.IconLeftImage = Nothing
         Me.btnJoin.OnPressedState.IconRightImage = Nothing
         Me.btnJoin.Size = New System.Drawing.Size(100, 33)
-        Me.btnJoin.TabIndex = 13
+        Me.btnJoin.TabIndex = 15
         Me.btnJoin.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btnJoin.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center
         Me.btnJoin.TextMarginLeft = 0
         Me.btnJoin.TextPadding = New System.Windows.Forms.Padding(0)
         Me.btnJoin.UseDefaultRadiusAndThickness = True
         '
-        'BunifuTextBox5
+        'txtPasswordConfirm
         '
-        Me.BunifuTextBox5.AcceptsReturn = False
-        Me.BunifuTextBox5.AcceptsTab = False
-        Me.BunifuTextBox5.AnimationSpeed = 200
-        Me.BunifuTextBox5.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
-        Me.BunifuTextBox5.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
-        Me.BunifuTextBox5.BackColor = System.Drawing.Color.Transparent
-        Me.BunifuTextBox5.BackgroundImage = CType(resources.GetObject("BunifuTextBox5.BackgroundImage"), System.Drawing.Image)
-        Me.BunifuTextBox5.BorderColorActive = System.Drawing.Color.DodgerBlue
-        Me.BunifuTextBox5.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        Me.BunifuTextBox5.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.BunifuTextBox5.BorderColorIdle = System.Drawing.Color.Silver
-        Me.BunifuTextBox5.BorderRadius = 20
-        Me.BunifuTextBox5.BorderThickness = 1
-        Me.BunifuTextBox5.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
-        Me.BunifuTextBox5.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox5.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
-        Me.BunifuTextBox5.DefaultText = ""
-        Me.BunifuTextBox5.FillColor = System.Drawing.Color.White
-        Me.BunifuTextBox5.HideSelection = True
-        Me.BunifuTextBox5.IconLeft = Global.SaccoProject.My.Resources.Resources.door_key
-        Me.BunifuTextBox5.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox5.IconPadding = 10
-        Me.BunifuTextBox5.IconRight = Nothing
-        Me.BunifuTextBox5.IconRightCursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox5.Lines = New String(-1) {}
-        Me.BunifuTextBox5.Location = New System.Drawing.Point(60, 306)
-        Me.BunifuTextBox5.MaxLength = 32767
-        Me.BunifuTextBox5.MinimumSize = New System.Drawing.Size(1, 1)
-        Me.BunifuTextBox5.Modified = False
-        Me.BunifuTextBox5.Multiline = False
-        Me.BunifuTextBox5.Name = "BunifuTextBox5"
-        StateProperties9.BorderColor = System.Drawing.Color.DodgerBlue
-        StateProperties9.FillColor = System.Drawing.Color.Empty
-        StateProperties9.ForeColor = System.Drawing.Color.Empty
-        StateProperties9.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox5.OnActiveState = StateProperties9
-        StateProperties10.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties10.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties10.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties10.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.BunifuTextBox5.OnDisabledState = StateProperties10
-        StateProperties11.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties11.FillColor = System.Drawing.Color.Empty
-        StateProperties11.ForeColor = System.Drawing.Color.Empty
-        StateProperties11.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox5.OnHoverState = StateProperties11
-        StateProperties12.BorderColor = System.Drawing.Color.Silver
-        StateProperties12.FillColor = System.Drawing.Color.White
-        StateProperties12.ForeColor = System.Drawing.Color.Empty
-        StateProperties12.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox5.OnIdleState = StateProperties12
-        Me.BunifuTextBox5.Padding = New System.Windows.Forms.Padding(3)
-        Me.BunifuTextBox5.PasswordChar = Global.Microsoft.VisualBasic.ChrW(9679)
-        Me.BunifuTextBox5.PlaceholderForeColor = System.Drawing.Color.Silver
-        Me.BunifuTextBox5.PlaceholderText = "Enter password"
-        Me.BunifuTextBox5.ReadOnly = False
-        Me.BunifuTextBox5.ScrollBars = System.Windows.Forms.ScrollBars.None
-        Me.BunifuTextBox5.SelectedText = ""
-        Me.BunifuTextBox5.SelectionLength = 0
-        Me.BunifuTextBox5.SelectionStart = 0
-        Me.BunifuTextBox5.ShortcutsEnabled = True
-        Me.BunifuTextBox5.Size = New System.Drawing.Size(394, 37)
-        Me.BunifuTextBox5.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
-        Me.BunifuTextBox5.TabIndex = 12
-        Me.BunifuTextBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
-        Me.BunifuTextBox5.TextMarginBottom = 0
-        Me.BunifuTextBox5.TextMarginLeft = 10
-        Me.BunifuTextBox5.TextMarginTop = 0
-        Me.BunifuTextBox5.TextPlaceholder = "Enter password"
-        Me.BunifuTextBox5.UseSystemPasswordChar = True
-        Me.BunifuTextBox5.WordWrap = True
-        '
-        'BunifuTextBox3
-        '
-        Me.BunifuTextBox3.AcceptsReturn = False
-        Me.BunifuTextBox3.AcceptsTab = False
-        Me.BunifuTextBox3.AnimationSpeed = 200
-        Me.BunifuTextBox3.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
-        Me.BunifuTextBox3.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
-        Me.BunifuTextBox3.BackColor = System.Drawing.Color.Transparent
-        Me.BunifuTextBox3.BackgroundImage = CType(resources.GetObject("BunifuTextBox3.BackgroundImage"), System.Drawing.Image)
-        Me.BunifuTextBox3.BorderColorActive = System.Drawing.Color.DodgerBlue
-        Me.BunifuTextBox3.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        Me.BunifuTextBox3.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.BunifuTextBox3.BorderColorIdle = System.Drawing.Color.Silver
-        Me.BunifuTextBox3.BorderRadius = 20
-        Me.BunifuTextBox3.BorderThickness = 1
-        Me.BunifuTextBox3.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
-        Me.BunifuTextBox3.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox3.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
-        Me.BunifuTextBox3.DefaultText = ""
-        Me.BunifuTextBox3.FillColor = System.Drawing.Color.White
-        Me.BunifuTextBox3.HideSelection = True
-        Me.BunifuTextBox3.IconLeft = Global.SaccoProject.My.Resources.Resources.door_key
-        Me.BunifuTextBox3.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox3.IconPadding = 10
-        Me.BunifuTextBox3.IconRight = Nothing
-        Me.BunifuTextBox3.IconRightCursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox3.Lines = New String(-1) {}
-        Me.BunifuTextBox3.Location = New System.Drawing.Point(60, 250)
-        Me.BunifuTextBox3.MaxLength = 32767
-        Me.BunifuTextBox3.MinimumSize = New System.Drawing.Size(1, 1)
-        Me.BunifuTextBox3.Modified = False
-        Me.BunifuTextBox3.Multiline = False
-        Me.BunifuTextBox3.Name = "BunifuTextBox3"
+        Me.txtPasswordConfirm.AcceptsReturn = False
+        Me.txtPasswordConfirm.AcceptsTab = False
+        Me.txtPasswordConfirm.AnimationSpeed = 200
+        Me.txtPasswordConfirm.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.txtPasswordConfirm.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.txtPasswordConfirm.BackColor = System.Drawing.Color.Transparent
+        Me.txtPasswordConfirm.BackgroundImage = CType(resources.GetObject("txtPasswordConfirm.BackgroundImage"), System.Drawing.Image)
+        Me.txtPasswordConfirm.BorderColorActive = System.Drawing.Color.DodgerBlue
+        Me.txtPasswordConfirm.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.txtPasswordConfirm.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.txtPasswordConfirm.BorderColorIdle = System.Drawing.Color.Silver
+        Me.txtPasswordConfirm.BorderRadius = 20
+        Me.txtPasswordConfirm.BorderThickness = 1
+        Me.txtPasswordConfirm.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.txtPasswordConfirm.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtPasswordConfirm.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.txtPasswordConfirm.DefaultText = ""
+        Me.txtPasswordConfirm.FillColor = System.Drawing.Color.White
+        Me.txtPasswordConfirm.HideSelection = True
+        Me.txtPasswordConfirm.IconLeft = Global.SaccoProject.My.Resources.Resources.door_key
+        Me.txtPasswordConfirm.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtPasswordConfirm.IconPadding = 10
+        Me.txtPasswordConfirm.IconRight = Nothing
+        Me.txtPasswordConfirm.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtPasswordConfirm.Lines = New String(-1) {}
+        Me.txtPasswordConfirm.Location = New System.Drawing.Point(60, 292)
+        Me.txtPasswordConfirm.MaxLength = 32767
+        Me.txtPasswordConfirm.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.txtPasswordConfirm.Modified = False
+        Me.txtPasswordConfirm.Multiline = False
+        Me.txtPasswordConfirm.Name = "txtPasswordConfirm"
         StateProperties13.BorderColor = System.Drawing.Color.DodgerBlue
         StateProperties13.FillColor = System.Drawing.Color.Empty
         StateProperties13.ForeColor = System.Drawing.Color.Empty
         StateProperties13.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox3.OnActiveState = StateProperties13
+        Me.txtPasswordConfirm.OnActiveState = StateProperties13
         StateProperties14.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
         StateProperties14.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
         StateProperties14.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
         StateProperties14.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.BunifuTextBox3.OnDisabledState = StateProperties14
+        Me.txtPasswordConfirm.OnDisabledState = StateProperties14
         StateProperties15.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
         StateProperties15.FillColor = System.Drawing.Color.Empty
         StateProperties15.ForeColor = System.Drawing.Color.Empty
         StateProperties15.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox3.OnHoverState = StateProperties15
+        Me.txtPasswordConfirm.OnHoverState = StateProperties15
         StateProperties16.BorderColor = System.Drawing.Color.Silver
         StateProperties16.FillColor = System.Drawing.Color.White
         StateProperties16.ForeColor = System.Drawing.Color.Empty
         StateProperties16.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox3.OnIdleState = StateProperties16
-        Me.BunifuTextBox3.Padding = New System.Windows.Forms.Padding(3)
-        Me.BunifuTextBox3.PasswordChar = Global.Microsoft.VisualBasic.ChrW(9679)
-        Me.BunifuTextBox3.PlaceholderForeColor = System.Drawing.Color.Silver
-        Me.BunifuTextBox3.PlaceholderText = "Enter password"
-        Me.BunifuTextBox3.ReadOnly = False
-        Me.BunifuTextBox3.ScrollBars = System.Windows.Forms.ScrollBars.None
-        Me.BunifuTextBox3.SelectedText = ""
-        Me.BunifuTextBox3.SelectionLength = 0
-        Me.BunifuTextBox3.SelectionStart = 0
-        Me.BunifuTextBox3.ShortcutsEnabled = True
-        Me.BunifuTextBox3.Size = New System.Drawing.Size(394, 37)
-        Me.BunifuTextBox3.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
-        Me.BunifuTextBox3.TabIndex = 11
-        Me.BunifuTextBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
-        Me.BunifuTextBox3.TextMarginBottom = 0
-        Me.BunifuTextBox3.TextMarginLeft = 10
-        Me.BunifuTextBox3.TextMarginTop = 0
-        Me.BunifuTextBox3.TextPlaceholder = "Enter password"
-        Me.BunifuTextBox3.UseSystemPasswordChar = False
-        Me.BunifuTextBox3.WordWrap = True
+        Me.txtPasswordConfirm.OnIdleState = StateProperties16
+        Me.txtPasswordConfirm.Padding = New System.Windows.Forms.Padding(3)
+        Me.txtPasswordConfirm.PasswordChar = Global.Microsoft.VisualBasic.ChrW(9679)
+        Me.txtPasswordConfirm.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.txtPasswordConfirm.PlaceholderText = "Enter password"
+        Me.txtPasswordConfirm.ReadOnly = False
+        Me.txtPasswordConfirm.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.txtPasswordConfirm.SelectedText = ""
+        Me.txtPasswordConfirm.SelectionLength = 0
+        Me.txtPasswordConfirm.SelectionStart = 0
+        Me.txtPasswordConfirm.ShortcutsEnabled = True
+        Me.txtPasswordConfirm.Size = New System.Drawing.Size(394, 37)
+        Me.txtPasswordConfirm.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
+        Me.txtPasswordConfirm.TabIndex = 12
+        Me.txtPasswordConfirm.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.txtPasswordConfirm.TextMarginBottom = 0
+        Me.txtPasswordConfirm.TextMarginLeft = 10
+        Me.txtPasswordConfirm.TextMarginTop = 0
+        Me.txtPasswordConfirm.TextPlaceholder = "Enter password"
+        Me.txtPasswordConfirm.UseSystemPasswordChar = True
+        Me.txtPasswordConfirm.WordWrap = True
         '
-        'BunifuTextBox4
+        'txtJoinPass
         '
-        Me.BunifuTextBox4.AcceptsReturn = False
-        Me.BunifuTextBox4.AcceptsTab = False
-        Me.BunifuTextBox4.AnimationSpeed = 200
-        Me.BunifuTextBox4.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
-        Me.BunifuTextBox4.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
-        Me.BunifuTextBox4.BackColor = System.Drawing.Color.Transparent
-        Me.BunifuTextBox4.BackgroundImage = CType(resources.GetObject("BunifuTextBox4.BackgroundImage"), System.Drawing.Image)
-        Me.BunifuTextBox4.BorderColorActive = System.Drawing.Color.DodgerBlue
-        Me.BunifuTextBox4.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        Me.BunifuTextBox4.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.BunifuTextBox4.BorderColorIdle = System.Drawing.Color.Silver
-        Me.BunifuTextBox4.BorderRadius = 20
-        Me.BunifuTextBox4.BorderThickness = 1
-        Me.BunifuTextBox4.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
-        Me.BunifuTextBox4.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox4.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
-        Me.BunifuTextBox4.DefaultText = ""
-        Me.BunifuTextBox4.FillColor = System.Drawing.Color.White
-        Me.BunifuTextBox4.HideSelection = True
-        Me.BunifuTextBox4.IconLeft = Global.SaccoProject.My.Resources.Resources.user1
-        Me.BunifuTextBox4.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox4.IconPadding = 10
-        Me.BunifuTextBox4.IconRight = Nothing
-        Me.BunifuTextBox4.IconRightCursor = System.Windows.Forms.Cursors.IBeam
-        Me.BunifuTextBox4.Lines = New String(-1) {}
-        Me.BunifuTextBox4.Location = New System.Drawing.Point(60, 192)
-        Me.BunifuTextBox4.MaxLength = 32767
-        Me.BunifuTextBox4.MinimumSize = New System.Drawing.Size(1, 1)
-        Me.BunifuTextBox4.Modified = False
-        Me.BunifuTextBox4.Multiline = False
-        Me.BunifuTextBox4.Name = "BunifuTextBox4"
+        Me.txtJoinPass.AcceptsReturn = False
+        Me.txtJoinPass.AcceptsTab = False
+        Me.txtJoinPass.AnimationSpeed = 200
+        Me.txtJoinPass.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.txtJoinPass.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.txtJoinPass.BackColor = System.Drawing.Color.Transparent
+        Me.txtJoinPass.BackgroundImage = CType(resources.GetObject("txtJoinPass.BackgroundImage"), System.Drawing.Image)
+        Me.txtJoinPass.BorderColorActive = System.Drawing.Color.DodgerBlue
+        Me.txtJoinPass.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.txtJoinPass.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.txtJoinPass.BorderColorIdle = System.Drawing.Color.Silver
+        Me.txtJoinPass.BorderRadius = 20
+        Me.txtJoinPass.BorderThickness = 1
+        Me.txtJoinPass.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.txtJoinPass.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtJoinPass.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.txtJoinPass.DefaultText = ""
+        Me.txtJoinPass.FillColor = System.Drawing.Color.White
+        Me.txtJoinPass.HideSelection = True
+        Me.txtJoinPass.IconLeft = Global.SaccoProject.My.Resources.Resources.door_key
+        Me.txtJoinPass.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtJoinPass.IconPadding = 10
+        Me.txtJoinPass.IconRight = Nothing
+        Me.txtJoinPass.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtJoinPass.Lines = New String(-1) {}
+        Me.txtJoinPass.Location = New System.Drawing.Point(60, 237)
+        Me.txtJoinPass.MaxLength = 32767
+        Me.txtJoinPass.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.txtJoinPass.Modified = False
+        Me.txtJoinPass.Multiline = False
+        Me.txtJoinPass.Name = "txtJoinPass"
         StateProperties17.BorderColor = System.Drawing.Color.DodgerBlue
         StateProperties17.FillColor = System.Drawing.Color.Empty
         StateProperties17.ForeColor = System.Drawing.Color.Empty
         StateProperties17.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox4.OnActiveState = StateProperties17
+        Me.txtJoinPass.OnActiveState = StateProperties17
         StateProperties18.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
         StateProperties18.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
         StateProperties18.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
         StateProperties18.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.BunifuTextBox4.OnDisabledState = StateProperties18
+        Me.txtJoinPass.OnDisabledState = StateProperties18
         StateProperties19.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
         StateProperties19.FillColor = System.Drawing.Color.Empty
         StateProperties19.ForeColor = System.Drawing.Color.Empty
         StateProperties19.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox4.OnHoverState = StateProperties19
+        Me.txtJoinPass.OnHoverState = StateProperties19
         StateProperties20.BorderColor = System.Drawing.Color.Silver
         StateProperties20.FillColor = System.Drawing.Color.White
         StateProperties20.ForeColor = System.Drawing.Color.Empty
         StateProperties20.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.BunifuTextBox4.OnIdleState = StateProperties20
-        Me.BunifuTextBox4.Padding = New System.Windows.Forms.Padding(3)
-        Me.BunifuTextBox4.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.BunifuTextBox4.PlaceholderForeColor = System.Drawing.Color.Silver
-        Me.BunifuTextBox4.PlaceholderText = "Email Address"
-        Me.BunifuTextBox4.ReadOnly = False
-        Me.BunifuTextBox4.ScrollBars = System.Windows.Forms.ScrollBars.None
-        Me.BunifuTextBox4.SelectedText = ""
-        Me.BunifuTextBox4.SelectionLength = 0
-        Me.BunifuTextBox4.SelectionStart = 0
-        Me.BunifuTextBox4.ShortcutsEnabled = True
-        Me.BunifuTextBox4.Size = New System.Drawing.Size(394, 38)
-        Me.BunifuTextBox4.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
-        Me.BunifuTextBox4.TabIndex = 10
-        Me.BunifuTextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
-        Me.BunifuTextBox4.TextMarginBottom = 0
-        Me.BunifuTextBox4.TextMarginLeft = 10
-        Me.BunifuTextBox4.TextMarginTop = 0
-        Me.BunifuTextBox4.TextPlaceholder = "Email Address"
-        Me.BunifuTextBox4.UseSystemPasswordChar = False
-        Me.BunifuTextBox4.WordWrap = True
+        Me.txtJoinPass.OnIdleState = StateProperties20
+        Me.txtJoinPass.Padding = New System.Windows.Forms.Padding(3)
+        Me.txtJoinPass.PasswordChar = Global.Microsoft.VisualBasic.ChrW(9679)
+        Me.txtJoinPass.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.txtJoinPass.PlaceholderText = "Enter password"
+        Me.txtJoinPass.ReadOnly = False
+        Me.txtJoinPass.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.txtJoinPass.SelectedText = ""
+        Me.txtJoinPass.SelectionLength = 0
+        Me.txtJoinPass.SelectionStart = 0
+        Me.txtJoinPass.ShortcutsEnabled = True
+        Me.txtJoinPass.Size = New System.Drawing.Size(394, 37)
+        Me.txtJoinPass.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
+        Me.txtJoinPass.TabIndex = 11
+        Me.txtJoinPass.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.txtJoinPass.TextMarginBottom = 0
+        Me.txtJoinPass.TextMarginLeft = 10
+        Me.txtJoinPass.TextMarginTop = 0
+        Me.txtJoinPass.TextPlaceholder = "Enter password"
+        Me.txtJoinPass.UseSystemPasswordChar = False
+        Me.txtJoinPass.WordWrap = True
+        '
+        'txtEmail
+        '
+        Me.txtEmail.AcceptsReturn = False
+        Me.txtEmail.AcceptsTab = False
+        Me.txtEmail.AnimationSpeed = 200
+        Me.txtEmail.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.txtEmail.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.txtEmail.BackColor = System.Drawing.Color.Transparent
+        Me.txtEmail.BackgroundImage = CType(resources.GetObject("txtEmail.BackgroundImage"), System.Drawing.Image)
+        Me.txtEmail.BorderColorActive = System.Drawing.Color.DodgerBlue
+        Me.txtEmail.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.txtEmail.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.txtEmail.BorderColorIdle = System.Drawing.Color.Silver
+        Me.txtEmail.BorderRadius = 20
+        Me.txtEmail.BorderThickness = 1
+        Me.txtEmail.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.txtEmail.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtEmail.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.txtEmail.DefaultText = ""
+        Me.txtEmail.FillColor = System.Drawing.Color.White
+        Me.txtEmail.HideSelection = True
+        Me.txtEmail.IconLeft = Global.SaccoProject.My.Resources.Resources.user1
+        Me.txtEmail.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtEmail.IconPadding = 10
+        Me.txtEmail.IconRight = Nothing
+        Me.txtEmail.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtEmail.Lines = New String(-1) {}
+        Me.txtEmail.Location = New System.Drawing.Point(60, 183)
+        Me.txtEmail.MaxLength = 32767
+        Me.txtEmail.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.txtEmail.Modified = False
+        Me.txtEmail.Multiline = False
+        Me.txtEmail.Name = "txtEmail"
+        StateProperties21.BorderColor = System.Drawing.Color.DodgerBlue
+        StateProperties21.FillColor = System.Drawing.Color.Empty
+        StateProperties21.ForeColor = System.Drawing.Color.Empty
+        StateProperties21.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtEmail.OnActiveState = StateProperties21
+        StateProperties22.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties22.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties22.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties22.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.txtEmail.OnDisabledState = StateProperties22
+        StateProperties23.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties23.FillColor = System.Drawing.Color.Empty
+        StateProperties23.ForeColor = System.Drawing.Color.Empty
+        StateProperties23.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtEmail.OnHoverState = StateProperties23
+        StateProperties24.BorderColor = System.Drawing.Color.Silver
+        StateProperties24.FillColor = System.Drawing.Color.White
+        StateProperties24.ForeColor = System.Drawing.Color.Empty
+        StateProperties24.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtEmail.OnIdleState = StateProperties24
+        Me.txtEmail.Padding = New System.Windows.Forms.Padding(3)
+        Me.txtEmail.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.txtEmail.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.txtEmail.PlaceholderText = "Email Address"
+        Me.txtEmail.ReadOnly = False
+        Me.txtEmail.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.txtEmail.SelectedText = ""
+        Me.txtEmail.SelectionLength = 0
+        Me.txtEmail.SelectionStart = 0
+        Me.txtEmail.ShortcutsEnabled = True
+        Me.txtEmail.Size = New System.Drawing.Size(394, 38)
+        Me.txtEmail.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
+        Me.txtEmail.TabIndex = 10
+        Me.txtEmail.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.txtEmail.TextMarginBottom = 0
+        Me.txtEmail.TextMarginLeft = 10
+        Me.txtEmail.TextMarginTop = 0
+        Me.txtEmail.TextPlaceholder = "Email Address"
+        Me.txtEmail.UseSystemPasswordChar = False
+        Me.txtEmail.WordWrap = True
         '
         'BunifuSeparator2
         '
@@ -1111,7 +1279,7 @@ Partial Class LoginForm
         Me.BunifuSeparator2.LineColor = System.Drawing.Color.Silver
         Me.BunifuSeparator2.LineStyle = Bunifu.UI.WinForms.BunifuSeparator.LineStyles.Solid
         Me.BunifuSeparator2.LineThickness = 1
-        Me.BunifuSeparator2.Location = New System.Drawing.Point(57, 86)
+        Me.BunifuSeparator2.Location = New System.Drawing.Point(57, 77)
         Me.BunifuSeparator2.Name = "BunifuSeparator2"
         Me.BunifuSeparator2.Orientation = Bunifu.UI.WinForms.BunifuSeparator.LineOrientation.Horizontal
         Me.BunifuSeparator2.Size = New System.Drawing.Size(300, 14)
@@ -1119,6 +1287,7 @@ Partial Class LoginForm
         '
         'SignUpPage2
         '
+        Me.SignUpPage2.Controls.Add(Me.txtMpesa)
         Me.SignUpPage2.Controls.Add(Me.Label11)
         Me.SignUpPage2.Controls.Add(Me.txtID)
         Me.SignUpPage2.Controls.Add(Me.btnCreateAccount)
@@ -1129,7 +1298,7 @@ Partial Class LoginForm
         Me.SignUpPage2.Controls.Add(Me.Label9)
         Me.SignUpPage2.Controls.Add(Me.Label8)
         Me.SignUpPage2.Controls.Add(Me.txtPhone)
-        Me.SignUpPage2.Controls.Add(Me.txtDOB)
+        Me.SignUpPage2.Controls.Add(Me.dtpDOB)
         Me.SignUpPage2.Controls.Add(Me.Label)
         Me.SignUpPage2.Controls.Add(Me.txtSurname)
         Me.SignUpPage2.Controls.Add(Me.txtMiddleName)
@@ -1145,6 +1314,166 @@ Partial Class LoginForm
         Me.SignUpPage2.TabIndex = 2
         Me.SignUpPage2.Text = "SignUpPage2"
         Me.SignUpPage2.UseVisualStyleBackColor = True
+        '
+        'txtMpesa
+        '
+        Me.txtMpesa.AcceptsReturn = False
+        Me.txtMpesa.AcceptsTab = False
+        Me.txtMpesa.AnimationSpeed = 200
+        Me.txtMpesa.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.txtMpesa.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.txtMpesa.BackColor = System.Drawing.Color.Transparent
+        Me.txtMpesa.BackgroundImage = CType(resources.GetObject("txtMpesa.BackgroundImage"), System.Drawing.Image)
+        Me.txtMpesa.BorderColorActive = System.Drawing.Color.DodgerBlue
+        Me.txtMpesa.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.txtMpesa.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.txtMpesa.BorderColorIdle = System.Drawing.Color.Silver
+        Me.txtMpesa.BorderRadius = 1
+        Me.txtMpesa.BorderThickness = 1
+        Me.txtMpesa.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.txtMpesa.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtMpesa.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.txtMpesa.DefaultText = ""
+        Me.txtMpesa.FillColor = System.Drawing.Color.White
+        Me.txtMpesa.HideSelection = True
+        Me.txtMpesa.IconLeft = Nothing
+        Me.txtMpesa.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtMpesa.IconPadding = 10
+        Me.txtMpesa.IconRight = Nothing
+        Me.txtMpesa.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtMpesa.Lines = New String(-1) {}
+        Me.txtMpesa.Location = New System.Drawing.Point(157, 302)
+        Me.txtMpesa.MaxLength = 32767
+        Me.txtMpesa.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.txtMpesa.Modified = False
+        Me.txtMpesa.Multiline = False
+        Me.txtMpesa.Name = "txtMpesa"
+        StateProperties25.BorderColor = System.Drawing.Color.DodgerBlue
+        StateProperties25.FillColor = System.Drawing.Color.Empty
+        StateProperties25.ForeColor = System.Drawing.Color.Empty
+        StateProperties25.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtMpesa.OnActiveState = StateProperties25
+        StateProperties26.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties26.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties26.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties26.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.txtMpesa.OnDisabledState = StateProperties26
+        StateProperties27.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties27.FillColor = System.Drawing.Color.Empty
+        StateProperties27.ForeColor = System.Drawing.Color.Empty
+        StateProperties27.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtMpesa.OnHoverState = StateProperties27
+        StateProperties28.BorderColor = System.Drawing.Color.Silver
+        StateProperties28.FillColor = System.Drawing.Color.White
+        StateProperties28.ForeColor = System.Drawing.Color.Empty
+        StateProperties28.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtMpesa.OnIdleState = StateProperties28
+        Me.txtMpesa.Padding = New System.Windows.Forms.Padding(3)
+        Me.txtMpesa.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.txtMpesa.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.txtMpesa.PlaceholderText = ""
+        Me.txtMpesa.ReadOnly = False
+        Me.txtMpesa.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.txtMpesa.SelectedText = ""
+        Me.txtMpesa.SelectionLength = 0
+        Me.txtMpesa.SelectionStart = 0
+        Me.txtMpesa.ShortcutsEnabled = True
+        Me.txtMpesa.Size = New System.Drawing.Size(33, 46)
+        Me.txtMpesa.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
+        Me.txtMpesa.TabIndex = 37
+        Me.txtMpesa.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.txtMpesa.TextMarginBottom = 0
+        Me.txtMpesa.TextMarginLeft = 3
+        Me.txtMpesa.TextMarginTop = 0
+        Me.txtMpesa.TextPlaceholder = ""
+        Me.txtMpesa.UseSystemPasswordChar = False
+        Me.txtMpesa.Visible = False
+        Me.txtMpesa.WordWrap = True
+        '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label11.ForeColor = System.Drawing.SystemColors.ControlDarkDark
+        Me.Label11.Location = New System.Drawing.Point(289, 218)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(162, 15)
+        Me.Label11.TabIndex = 36
+        Me.Label11.Text = "ID Number/Passport Number"
+        '
+        'txtID
+        '
+        Me.txtID.AcceptsReturn = False
+        Me.txtID.AcceptsTab = False
+        Me.txtID.AnimationSpeed = 200
+        Me.txtID.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
+        Me.txtID.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
+        Me.txtID.BackColor = System.Drawing.Color.Transparent
+        Me.txtID.BackgroundImage = CType(resources.GetObject("txtID.BackgroundImage"), System.Drawing.Image)
+        Me.txtID.BorderColorActive = System.Drawing.Color.DodgerBlue
+        Me.txtID.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        Me.txtID.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.txtID.BorderColorIdle = System.Drawing.Color.Silver
+        Me.txtID.BorderRadius = 20
+        Me.txtID.BorderThickness = 1
+        Me.txtID.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
+        Me.txtID.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtID.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
+        Me.txtID.DefaultText = ""
+        Me.txtID.FillColor = System.Drawing.Color.White
+        Me.txtID.HideSelection = True
+        Me.txtID.IconLeft = Nothing
+        Me.txtID.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtID.IconPadding = 10
+        Me.txtID.IconRight = Nothing
+        Me.txtID.IconRightCursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtID.Lines = New String(-1) {}
+        Me.txtID.Location = New System.Drawing.Point(289, 236)
+        Me.txtID.MaxLength = 32767
+        Me.txtID.MinimumSize = New System.Drawing.Size(1, 1)
+        Me.txtID.Modified = False
+        Me.txtID.Multiline = False
+        Me.txtID.Name = "txtID"
+        StateProperties29.BorderColor = System.Drawing.Color.DodgerBlue
+        StateProperties29.FillColor = System.Drawing.Color.Empty
+        StateProperties29.ForeColor = System.Drawing.Color.Empty
+        StateProperties29.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtID.OnActiveState = StateProperties29
+        StateProperties30.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties30.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties30.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties30.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.txtID.OnDisabledState = StateProperties30
+        StateProperties31.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties31.FillColor = System.Drawing.Color.Empty
+        StateProperties31.ForeColor = System.Drawing.Color.Empty
+        StateProperties31.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtID.OnHoverState = StateProperties31
+        StateProperties32.BorderColor = System.Drawing.Color.Silver
+        StateProperties32.FillColor = System.Drawing.Color.White
+        StateProperties32.ForeColor = System.Drawing.Color.Empty
+        StateProperties32.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtID.OnIdleState = StateProperties32
+        Me.txtID.Padding = New System.Windows.Forms.Padding(3)
+        Me.txtID.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.txtID.PlaceholderForeColor = System.Drawing.Color.Silver
+        Me.txtID.PlaceholderText = ""
+        Me.txtID.ReadOnly = False
+        Me.txtID.ScrollBars = System.Windows.Forms.ScrollBars.None
+        Me.txtID.SelectedText = ""
+        Me.txtID.SelectionLength = 0
+        Me.txtID.SelectionStart = 0
+        Me.txtID.ShortcutsEnabled = True
+        Me.txtID.Size = New System.Drawing.Size(220, 35)
+        Me.txtID.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
+        Me.txtID.TabIndex = 27
+        Me.txtID.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
+        Me.txtID.TextMarginBottom = 0
+        Me.txtID.TextMarginLeft = 3
+        Me.txtID.TextMarginTop = 0
+        Me.txtID.TextPlaceholder = ""
+        Me.txtID.UseSystemPasswordChar = False
+        Me.txtID.WordWrap = True
         '
         'btnCreateAccount
         '
@@ -1228,7 +1557,7 @@ Partial Class LoginForm
         Me.btnCreateAccount.OnPressedState.IconLeftImage = Nothing
         Me.btnCreateAccount.OnPressedState.IconRightImage = Nothing
         Me.btnCreateAccount.Size = New System.Drawing.Size(124, 33)
-        Me.btnCreateAccount.TabIndex = 34
+        Me.btnCreateAccount.TabIndex = 29
         Me.btnCreateAccount.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btnCreateAccount.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center
         Me.btnCreateAccount.TextMarginLeft = 0
@@ -1318,7 +1647,7 @@ Partial Class LoginForm
         Me.txtGender.Location = New System.Drawing.Point(289, 174)
         Me.txtGender.Name = "txtGender"
         Me.txtGender.Size = New System.Drawing.Size(241, 32)
-        Me.txtGender.TabIndex = 29
+        Me.txtGender.TabIndex = 25
         Me.txtGender.Text = Nothing
         Me.txtGender.TextAlignment = Bunifu.UI.WinForms.BunifuDropdown.TextAlign.Left
         Me.txtGender.TextLeftMargin = 5
@@ -1378,26 +1707,26 @@ Partial Class LoginForm
         Me.txtPhone.Modified = False
         Me.txtPhone.Multiline = False
         Me.txtPhone.Name = "txtPhone"
-        StateProperties25.BorderColor = System.Drawing.Color.DodgerBlue
-        StateProperties25.FillColor = System.Drawing.Color.Empty
-        StateProperties25.ForeColor = System.Drawing.Color.Empty
-        StateProperties25.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtPhone.OnActiveState = StateProperties25
-        StateProperties26.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties26.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties26.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties26.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.txtPhone.OnDisabledState = StateProperties26
-        StateProperties27.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties27.FillColor = System.Drawing.Color.Empty
-        StateProperties27.ForeColor = System.Drawing.Color.Empty
-        StateProperties27.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtPhone.OnHoverState = StateProperties27
-        StateProperties28.BorderColor = System.Drawing.Color.Silver
-        StateProperties28.FillColor = System.Drawing.Color.White
-        StateProperties28.ForeColor = System.Drawing.Color.Empty
-        StateProperties28.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtPhone.OnIdleState = StateProperties28
+        StateProperties33.BorderColor = System.Drawing.Color.DodgerBlue
+        StateProperties33.FillColor = System.Drawing.Color.Empty
+        StateProperties33.ForeColor = System.Drawing.Color.Empty
+        StateProperties33.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtPhone.OnActiveState = StateProperties33
+        StateProperties34.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties34.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties34.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties34.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.txtPhone.OnDisabledState = StateProperties34
+        StateProperties35.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties35.FillColor = System.Drawing.Color.Empty
+        StateProperties35.ForeColor = System.Drawing.Color.Empty
+        StateProperties35.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtPhone.OnHoverState = StateProperties35
+        StateProperties36.BorderColor = System.Drawing.Color.Silver
+        StateProperties36.FillColor = System.Drawing.Color.White
+        StateProperties36.ForeColor = System.Drawing.Color.Empty
+        StateProperties36.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtPhone.OnIdleState = StateProperties36
         Me.txtPhone.Padding = New System.Windows.Forms.Padding(3)
         Me.txtPhone.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.txtPhone.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1419,29 +1748,29 @@ Partial Class LoginForm
         Me.txtPhone.UseSystemPasswordChar = False
         Me.txtPhone.WordWrap = True
         '
-        'txtDOB
+        'dtpDOB
         '
-        Me.txtDOB.BackColor = System.Drawing.Color.Transparent
-        Me.txtDOB.BorderRadius = 10
-        Me.txtDOB.Color = System.Drawing.Color.Silver
-        Me.txtDOB.DateBorderThickness = Bunifu.UI.WinForms.BunifuDatePicker.BorderThickness.Thin
-        Me.txtDOB.DateTextAlign = Bunifu.UI.WinForms.BunifuDatePicker.TextAlign.Left
-        Me.txtDOB.DisabledColor = System.Drawing.Color.Gray
-        Me.txtDOB.DisplayWeekNumbers = False
-        Me.txtDOB.DPHeight = 0
-        Me.txtDOB.DropDownAlign = System.Windows.Forms.LeftRightAlignment.Right
-        Me.txtDOB.FillDatePicker = False
-        Me.txtDOB.Font = New System.Drawing.Font("Segoe UI", 9.0!)
-        Me.txtDOB.ForeColor = System.Drawing.Color.Black
-        Me.txtDOB.Icon = CType(resources.GetObject("txtDOB.Icon"), System.Drawing.Image)
-        Me.txtDOB.IconColor = System.Drawing.Color.Gray
-        Me.txtDOB.IconLocation = Bunifu.UI.WinForms.BunifuDatePicker.Indicator.Right
-        Me.txtDOB.LeftTextMargin = 5
-        Me.txtDOB.Location = New System.Drawing.Point(36, 174)
-        Me.txtDOB.MinimumSize = New System.Drawing.Size(4, 32)
-        Me.txtDOB.Name = "txtDOB"
-        Me.txtDOB.Size = New System.Drawing.Size(220, 32)
-        Me.txtDOB.TabIndex = 25
+        Me.dtpDOB.BackColor = System.Drawing.Color.Transparent
+        Me.dtpDOB.BorderRadius = 10
+        Me.dtpDOB.Color = System.Drawing.Color.Silver
+        Me.dtpDOB.DateBorderThickness = Bunifu.UI.WinForms.BunifuDatePicker.BorderThickness.Thin
+        Me.dtpDOB.DateTextAlign = Bunifu.UI.WinForms.BunifuDatePicker.TextAlign.Left
+        Me.dtpDOB.DisabledColor = System.Drawing.Color.Gray
+        Me.dtpDOB.DisplayWeekNumbers = False
+        Me.dtpDOB.DPHeight = 0
+        Me.dtpDOB.DropDownAlign = System.Windows.Forms.LeftRightAlignment.Right
+        Me.dtpDOB.FillDatePicker = False
+        Me.dtpDOB.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.dtpDOB.ForeColor = System.Drawing.Color.Black
+        Me.dtpDOB.Icon = CType(resources.GetObject("dtpDOB.Icon"), System.Drawing.Image)
+        Me.dtpDOB.IconColor = System.Drawing.Color.Gray
+        Me.dtpDOB.IconLocation = Bunifu.UI.WinForms.BunifuDatePicker.Indicator.Right
+        Me.dtpDOB.LeftTextMargin = 5
+        Me.dtpDOB.Location = New System.Drawing.Point(36, 174)
+        Me.dtpDOB.MinimumSize = New System.Drawing.Size(4, 32)
+        Me.dtpDOB.Name = "dtpDOB"
+        Me.dtpDOB.Size = New System.Drawing.Size(220, 32)
+        Me.dtpDOB.TabIndex = 24
         '
         'Label
         '
@@ -1487,26 +1816,26 @@ Partial Class LoginForm
         Me.txtSurname.Modified = False
         Me.txtSurname.Multiline = False
         Me.txtSurname.Name = "txtSurname"
-        StateProperties29.BorderColor = System.Drawing.Color.DodgerBlue
-        StateProperties29.FillColor = System.Drawing.Color.Empty
-        StateProperties29.ForeColor = System.Drawing.Color.Empty
-        StateProperties29.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtSurname.OnActiveState = StateProperties29
-        StateProperties30.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties30.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties30.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties30.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.txtSurname.OnDisabledState = StateProperties30
-        StateProperties31.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties31.FillColor = System.Drawing.Color.Empty
-        StateProperties31.ForeColor = System.Drawing.Color.Empty
-        StateProperties31.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtSurname.OnHoverState = StateProperties31
-        StateProperties32.BorderColor = System.Drawing.Color.Silver
-        StateProperties32.FillColor = System.Drawing.Color.White
-        StateProperties32.ForeColor = System.Drawing.Color.Empty
-        StateProperties32.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtSurname.OnIdleState = StateProperties32
+        StateProperties37.BorderColor = System.Drawing.Color.DodgerBlue
+        StateProperties37.FillColor = System.Drawing.Color.Empty
+        StateProperties37.ForeColor = System.Drawing.Color.Empty
+        StateProperties37.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtSurname.OnActiveState = StateProperties37
+        StateProperties38.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties38.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties38.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties38.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.txtSurname.OnDisabledState = StateProperties38
+        StateProperties39.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties39.FillColor = System.Drawing.Color.Empty
+        StateProperties39.ForeColor = System.Drawing.Color.Empty
+        StateProperties39.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtSurname.OnHoverState = StateProperties39
+        StateProperties40.BorderColor = System.Drawing.Color.Silver
+        StateProperties40.FillColor = System.Drawing.Color.White
+        StateProperties40.ForeColor = System.Drawing.Color.Empty
+        StateProperties40.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtSurname.OnIdleState = StateProperties40
         Me.txtSurname.Padding = New System.Windows.Forms.Padding(3)
         Me.txtSurname.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.txtSurname.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1561,26 +1890,26 @@ Partial Class LoginForm
         Me.txtMiddleName.Modified = False
         Me.txtMiddleName.Multiline = False
         Me.txtMiddleName.Name = "txtMiddleName"
-        StateProperties33.BorderColor = System.Drawing.Color.DodgerBlue
-        StateProperties33.FillColor = System.Drawing.Color.Empty
-        StateProperties33.ForeColor = System.Drawing.Color.Empty
-        StateProperties33.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtMiddleName.OnActiveState = StateProperties33
-        StateProperties34.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties34.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties34.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties34.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.txtMiddleName.OnDisabledState = StateProperties34
-        StateProperties35.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties35.FillColor = System.Drawing.Color.Empty
-        StateProperties35.ForeColor = System.Drawing.Color.Empty
-        StateProperties35.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtMiddleName.OnHoverState = StateProperties35
-        StateProperties36.BorderColor = System.Drawing.Color.Silver
-        StateProperties36.FillColor = System.Drawing.Color.White
-        StateProperties36.ForeColor = System.Drawing.Color.Empty
-        StateProperties36.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtMiddleName.OnIdleState = StateProperties36
+        StateProperties41.BorderColor = System.Drawing.Color.DodgerBlue
+        StateProperties41.FillColor = System.Drawing.Color.Empty
+        StateProperties41.ForeColor = System.Drawing.Color.Empty
+        StateProperties41.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtMiddleName.OnActiveState = StateProperties41
+        StateProperties42.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties42.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties42.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties42.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.txtMiddleName.OnDisabledState = StateProperties42
+        StateProperties43.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties43.FillColor = System.Drawing.Color.Empty
+        StateProperties43.ForeColor = System.Drawing.Color.Empty
+        StateProperties43.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtMiddleName.OnHoverState = StateProperties43
+        StateProperties44.BorderColor = System.Drawing.Color.Silver
+        StateProperties44.FillColor = System.Drawing.Color.White
+        StateProperties44.ForeColor = System.Drawing.Color.Empty
+        StateProperties44.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtMiddleName.OnIdleState = StateProperties44
         Me.txtMiddleName.Padding = New System.Windows.Forms.Padding(3)
         Me.txtMiddleName.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.txtMiddleName.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1635,26 +1964,26 @@ Partial Class LoginForm
         Me.txtFirstName.Modified = False
         Me.txtFirstName.Multiline = False
         Me.txtFirstName.Name = "txtFirstName"
-        StateProperties37.BorderColor = System.Drawing.Color.DodgerBlue
-        StateProperties37.FillColor = System.Drawing.Color.Empty
-        StateProperties37.ForeColor = System.Drawing.Color.Empty
-        StateProperties37.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtFirstName.OnActiveState = StateProperties37
-        StateProperties38.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties38.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties38.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties38.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.txtFirstName.OnDisabledState = StateProperties38
-        StateProperties39.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties39.FillColor = System.Drawing.Color.Empty
-        StateProperties39.ForeColor = System.Drawing.Color.Empty
-        StateProperties39.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtFirstName.OnHoverState = StateProperties39
-        StateProperties40.BorderColor = System.Drawing.Color.Silver
-        StateProperties40.FillColor = System.Drawing.Color.White
-        StateProperties40.ForeColor = System.Drawing.Color.Empty
-        StateProperties40.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtFirstName.OnIdleState = StateProperties40
+        StateProperties45.BorderColor = System.Drawing.Color.DodgerBlue
+        StateProperties45.FillColor = System.Drawing.Color.Empty
+        StateProperties45.ForeColor = System.Drawing.Color.Empty
+        StateProperties45.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtFirstName.OnActiveState = StateProperties45
+        StateProperties46.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
+        StateProperties46.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
+        StateProperties46.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
+        StateProperties46.PlaceholderForeColor = System.Drawing.Color.DarkGray
+        Me.txtFirstName.OnDisabledState = StateProperties46
+        StateProperties47.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
+        StateProperties47.FillColor = System.Drawing.Color.Empty
+        StateProperties47.ForeColor = System.Drawing.Color.Empty
+        StateProperties47.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtFirstName.OnHoverState = StateProperties47
+        StateProperties48.BorderColor = System.Drawing.Color.Silver
+        StateProperties48.FillColor = System.Drawing.Color.White
+        StateProperties48.ForeColor = System.Drawing.Color.Empty
+        StateProperties48.PlaceholderForeColor = System.Drawing.Color.Empty
+        Me.txtFirstName.OnIdleState = StateProperties48
         Me.txtFirstName.Padding = New System.Windows.Forms.Padding(3)
         Me.txtFirstName.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.txtFirstName.PlaceholderForeColor = System.Drawing.Color.Silver
@@ -1962,91 +2291,6 @@ Partial Class LoginForm
         Me.BunifuLabel2.TextAlignment = System.Drawing.ContentAlignment.TopLeft
         Me.BunifuLabel2.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.[Default]
         '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label11.ForeColor = System.Drawing.SystemColors.ControlDarkDark
-        Me.Label11.Location = New System.Drawing.Point(289, 218)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(162, 15)
-        Me.Label11.TabIndex = 36
-        Me.Label11.Text = "ID Number/Passport Number"
-        '
-        'txtID
-        '
-        Me.txtID.AcceptsReturn = False
-        Me.txtID.AcceptsTab = False
-        Me.txtID.AnimationSpeed = 200
-        Me.txtID.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None
-        Me.txtID.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None
-        Me.txtID.BackColor = System.Drawing.Color.Transparent
-        Me.txtID.BackgroundImage = CType(resources.GetObject("txtID.BackgroundImage"), System.Drawing.Image)
-        Me.txtID.BorderColorActive = System.Drawing.Color.DodgerBlue
-        Me.txtID.BorderColorDisabled = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        Me.txtID.BorderColorHover = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.txtID.BorderColorIdle = System.Drawing.Color.Silver
-        Me.txtID.BorderRadius = 20
-        Me.txtID.BorderThickness = 1
-        Me.txtID.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
-        Me.txtID.Cursor = System.Windows.Forms.Cursors.IBeam
-        Me.txtID.DefaultFont = New System.Drawing.Font("Segoe UI", 9.25!)
-        Me.txtID.DefaultText = ""
-        Me.txtID.FillColor = System.Drawing.Color.White
-        Me.txtID.HideSelection = True
-        Me.txtID.IconLeft = Nothing
-        Me.txtID.IconLeftCursor = System.Windows.Forms.Cursors.IBeam
-        Me.txtID.IconPadding = 10
-        Me.txtID.IconRight = Nothing
-        Me.txtID.IconRightCursor = System.Windows.Forms.Cursors.IBeam
-        Me.txtID.Lines = New String(-1) {}
-        Me.txtID.Location = New System.Drawing.Point(289, 236)
-        Me.txtID.MaxLength = 32767
-        Me.txtID.MinimumSize = New System.Drawing.Size(1, 1)
-        Me.txtID.Modified = False
-        Me.txtID.Multiline = False
-        Me.txtID.Name = "txtID"
-        StateProperties21.BorderColor = System.Drawing.Color.DodgerBlue
-        StateProperties21.FillColor = System.Drawing.Color.Empty
-        StateProperties21.ForeColor = System.Drawing.Color.Empty
-        StateProperties21.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtID.OnActiveState = StateProperties21
-        StateProperties22.BorderColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer), CType(CType(204, Byte), Integer))
-        StateProperties22.FillColor = System.Drawing.Color.FromArgb(CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer), CType(CType(240, Byte), Integer))
-        StateProperties22.ForeColor = System.Drawing.Color.FromArgb(CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer), CType(CType(109, Byte), Integer))
-        StateProperties22.PlaceholderForeColor = System.Drawing.Color.DarkGray
-        Me.txtID.OnDisabledState = StateProperties22
-        StateProperties23.BorderColor = System.Drawing.Color.FromArgb(CType(CType(105, Byte), Integer), CType(CType(181, Byte), Integer), CType(CType(255, Byte), Integer))
-        StateProperties23.FillColor = System.Drawing.Color.Empty
-        StateProperties23.ForeColor = System.Drawing.Color.Empty
-        StateProperties23.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtID.OnHoverState = StateProperties23
-        StateProperties24.BorderColor = System.Drawing.Color.Silver
-        StateProperties24.FillColor = System.Drawing.Color.White
-        StateProperties24.ForeColor = System.Drawing.Color.Empty
-        StateProperties24.PlaceholderForeColor = System.Drawing.Color.Empty
-        Me.txtID.OnIdleState = StateProperties24
-        Me.txtID.Padding = New System.Windows.Forms.Padding(3)
-        Me.txtID.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.txtID.PlaceholderForeColor = System.Drawing.Color.Silver
-        Me.txtID.PlaceholderText = ""
-        Me.txtID.ReadOnly = False
-        Me.txtID.ScrollBars = System.Windows.Forms.ScrollBars.None
-        Me.txtID.SelectedText = ""
-        Me.txtID.SelectionLength = 0
-        Me.txtID.SelectionStart = 0
-        Me.txtID.ShortcutsEnabled = True
-        Me.txtID.Size = New System.Drawing.Size(220, 35)
-        Me.txtID.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu
-        Me.txtID.TabIndex = 35
-        Me.txtID.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
-        Me.txtID.TextMarginBottom = 0
-        Me.txtID.TextMarginLeft = 3
-        Me.txtID.TextMarginTop = 0
-        Me.txtID.TextPlaceholder = ""
-        Me.txtID.UseSystemPasswordChar = False
-        Me.txtID.WordWrap = True
-        '
         'LoginForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -2085,13 +2329,13 @@ Partial Class LoginForm
     Friend WithEvents LoginPage As TabPage
     Friend WithEvents Login As Label
     Friend WithEvents SignUpPage As TabPage
-    Friend WithEvents BunifuTextBox2 As Bunifu.UI.WinForms.BunifuTextBox
-    Friend WithEvents BunifuTextBox1 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents txtPassword As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents txtUsername As Bunifu.UI.WinForms.BunifuTextBox
     Friend WithEvents BunifuSeparator1 As Bunifu.UI.WinForms.BunifuSeparator
     Friend WithEvents Label2 As Label
-    Friend WithEvents BunifuTextBox5 As Bunifu.UI.WinForms.BunifuTextBox
-    Friend WithEvents BunifuTextBox3 As Bunifu.UI.WinForms.BunifuTextBox
-    Friend WithEvents BunifuTextBox4 As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents txtPasswordConfirm As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents txtJoinPass As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents txtEmail As Bunifu.UI.WinForms.BunifuTextBox
     Friend WithEvents BunifuSeparator2 As Bunifu.UI.WinForms.BunifuSeparator
     Friend WithEvents btnSignIn As Bunifu.UI.WinForms.BunifuButton.BunifuButton
     Friend WithEvents btnJoin As Bunifu.UI.WinForms.BunifuButton.BunifuButton
@@ -2115,7 +2359,7 @@ Partial Class LoginForm
     Friend WithEvents Label9 As Label
     Friend WithEvents Label8 As Label
     Friend WithEvents txtPhone As Bunifu.UI.WinForms.BunifuTextBox
-    Friend WithEvents txtDOB As Bunifu.UI.WinForms.BunifuDatePicker
+    Friend WithEvents dtpDOB As Bunifu.UI.WinForms.BunifuDatePicker
     Friend WithEvents Label As Label
     Friend WithEvents Label10 As Label
     Friend WithEvents btnMpesa As FontAwesome.Sharp.IconPictureBox
@@ -2124,4 +2368,9 @@ Partial Class LoginForm
     Friend WithEvents btnCreateAccount As Bunifu.UI.WinForms.BunifuButton.BunifuButton
     Friend WithEvents Label11 As Label
     Friend WithEvents txtID As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents txtMpesa As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents cboQuestion As Bunifu.UI.WinForms.BunifuDropdown
+    Friend WithEvents BunifuLabel3 As Bunifu.UI.WinForms.BunifuLabel
+    Friend WithEvents txtResponse As Bunifu.UI.WinForms.BunifuTextBox
+    Friend WithEvents BunifuLabel4 As Bunifu.UI.WinForms.BunifuLabel
 End Class

@@ -63,6 +63,17 @@ Namespace My
                 Return CType(Me("SaccoDBConnectionString"),String)
             End Get
         End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=""G:\Education\Daystar Work\Semester"& _ 
+            "s\Aug 2022\ACS 216\Project\SaccoDB.accdb""")>  _
+        Public ReadOnly Property SaccoDBConnectionString1() As String
+            Get
+                Return CType(Me("SaccoDBConnectionString1"),String)
+            End Get
+        End Property
     End Class
 End Namespace
 
